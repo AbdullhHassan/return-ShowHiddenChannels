@@ -2,10 +2,10 @@
  * @name ShowHiddenChannels
  * @displayName Show Hidden Channels (SHC)
  * @version 0.0.6
- * @author JustOptimize (Oggetto)
- * @authorId 347419615007080453
- * @source https://github.com/JustOptimize/return-ShowHiddenChannels
- * @updateUrl https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js
+ * @author ! Abdullah#6924
+ * @authorId 701100050092261377
+ * @source https://github.com/AbdullhHassan/return-ShowHiddenChannels
+ * @updateUrl https://github.com/AbdullhHassan/return-ShowHiddenChannels
 */
 
 module.exports = (() => {
@@ -14,12 +14,12 @@ module.exports = (() => {
     info: {
       name: "ShowHiddenChannels",
       authors: [{
-        name: "JustOptimize (Oggetto)",
+        name: "! Abdullah#6924",
       }],
       description: "A plugin which displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible).",
       version: "0.0.6",
-      github: "https://github.com/JustOptimize/return-ShowHiddenChannels",
-      github_raw: "https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js"
+      github: "https://github.com/AbdullhHassan/return-ShowHiddenChannels",
+      github_raw: "https://github.com/AbdullhHassan/return-ShowHiddenChannels"
     },
 
     changelog: [
